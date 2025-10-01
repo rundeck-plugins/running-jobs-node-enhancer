@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository is no longer maintained and is only avaiable for historical example purposes.  It will be deleted at some point in the future.
+
 # Rundeck Running Jobs on Node Plugin
 
 This plugin set provides a way to track the number of running jobs on each node, and add this stat to node attributes.
